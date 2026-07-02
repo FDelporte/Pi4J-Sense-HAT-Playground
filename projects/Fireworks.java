@@ -6,7 +6,7 @@
 
 //DEPS com.pi4j:pi4j-core:5.0.0-SNAPSHOT
 //DEPS com.pi4j:pi4j-plugin-ffm:5.0.0-SNAPSHOT
-//DEPS com.pi4j:pi4j-drivers:1.0.1-SNAPSHOT
+//DEPS com.pi4j:pi4j-drivers:1.1.0
 
 import com.pi4j.Pi4J;
 import com.pi4j.drivers.hat.raspberry.SenseHat;
